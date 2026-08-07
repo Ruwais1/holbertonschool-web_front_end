@@ -197,6 +197,8 @@ ul.row {
 
 .social-link svg {
     fill: var(--text-color);
+    width: 2rem;
+    height: 2rem;
 }
 
 .footer ul {
